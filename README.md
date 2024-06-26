@@ -3,7 +3,7 @@
 
 <h2> / Sobre mi /</h2>
    
-¡Hola! Soy un estudiante de desarrollo web apasionado por la tecnología y la programación. Actualmente, estoy en busca de una oportunidad laboral para poner en práctica mis habilidades y seguir aprendiendo en el campo. 🚀 <br><br>
+¡Hola! Soy Jaime Diaz un estudiante de desarrollo web apasionado por la tecnología y la programación. Actualmente, estoy en busca de una oportunidad laboral para poner en práctica mis habilidades y seguir aprendiendo en el campo. 🚀 <br><br>
 
 ### Dato curioso 💡 <br><br>
 
