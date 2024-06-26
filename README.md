@@ -1,13 +1,13 @@
 <div>
 <img align="right" width="400" alt="jaime" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazY2dno5YTBibzVjeTkyNXRlZmk4cXEycXA2bmJ1M3p5ZW9ta2IwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mFwK9jjzRpmM4egev8/giphy.gif"/>
 
-<h2> / Sobre mi /</h2>
+<h2> / 🧑‍💻Sobre mi /</h2>
    
-¡Hola! Soy Jaime Diaz un estudiante de desarrollo web apasionado por la tecnología y la programación. Actualmente, estoy en busca de una oportunidad laboral para poner en práctica mis habilidades y seguir aprendiendo en el campo. 🚀 <br><br>
+¡Hola! Soy Jaime Diaz un estudiante de desarrollo web con un gran amor por la tecnología y la programación. Actualmente, estoy en busca de una oportunidad laboral para poner en práctica mis habilidades y seguir aprendiendo en el campo. 🚀 <br><br>
 
 ### Dato curioso 💡 <br><br>
 
-- El primer "bug" informático fue encontrado en 1947: una polilla real 🦋 estaba atrapada en un relé de un computador Mark II en la Universidad de Harvard😂. <br><br>
+- 🎮 Notch le vendio Minecraft a Microsoft por 2.500 millones de dólares ⛏️🧱. <br><br>
 
 
 ### Más sobre mí 🔍<br><br>
