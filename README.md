@@ -1,8 +1,5 @@
-
 <div>
-
-    <img align="right" width="400" alt="Shimarin" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazY2dno5YTBibzVjeTkyNXRlZmk4cXEycXA2bmJ1M3p5ZW9ta2IwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mFwK9jjzRpmM4egev8/giphy.gif"/>
-    
+<img align="right" width="400" alt="jaime" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazY2dno5YTBibzVjeTkyNXRlZmk4cXEycXA2bmJ1M3p5ZW9ta2IwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mFwK9jjzRpmM4egev8/giphy.gif"/>
 
 <h2> / Sobre mi /</h2>
    
