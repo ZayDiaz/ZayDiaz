@@ -42,4 +42,4 @@
 ------
 Credit: [jaime diaz](https://github.com/ZayDiaz) <br><br>
 
-Última edición: 27/06/2024
+Última edición: 26/06/2024
