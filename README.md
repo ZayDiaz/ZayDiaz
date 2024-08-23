@@ -14,9 +14,9 @@
 
 - 📚 Me encanta aprender cosas nuevas todos los días.
 - 🌟 Actualmente busco colaborar en proyectos open-source.
-- 🧩 Me divierto resolviendo problemas y desafíos de código ya que me distrae de la realidad.
-- 🏆 Estoy interesado principalmente en el desarrollo de sofware, pero actualmente estoy aprendiendo desarrollado web.
-- 🌍 Me encanta que la tegnologia cambie el mundo y lo impulse. 
+- 🧩 Me divierto resolviendo problemas y desafíos de código ya que me mantiene investigando y aprendo mucho.
+- 🏆 Estoy interesado principalmente en el Desarrollo de Software, pero actualmente estoy aprendiendo Desarrollado Web.
+- 🌍 Me alegra ver como la tegnologia cambia el mundo y lo impulsa. 
 
 
 <h2> / habilidades actuales / </h2>
