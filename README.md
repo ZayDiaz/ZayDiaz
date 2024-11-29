@@ -36,7 +36,7 @@
   
   
   </br></br>
-  🚀¡Gracias por visitar mi perfil! No dudes en contactarme si tienes algun proyecto en el cual yo pueda colaborar o una oportunidad que me quieras ofrecer. 🤝 <br><br>
+  🚀¡Gracias por visitar mi perfil! No dudes en contactarme si tienes algun proyectos en el cual yo pueda colaborar. 🤝 <br><br>
   </div>
 
 ------
